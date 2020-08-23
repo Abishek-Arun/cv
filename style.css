@@ -1,0 +1,42 @@
+body {
+  background-color: #48466d; 
+}
+h3 {
+    color: #3d84a8;
+ font-family: serif;
+}
+p {
+  color: #abedd8;
+  font-family: cursive;
+}
+a:link {
+   color: #3d84a8;
+}
+a:visited{
+  color: #abedd8;
+}
+h1{
+    color: #3d84a8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+  font-family: cursive;
+}
+form{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input{
+    background-color: #3d84a8;
+    color: #abedd8;
+}
+textarea{
+    background-color: #3d84a8;
+    color: #abedd8;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    color: rgb(123, 100, 155);
+   border-width: 7px;
+}
